@@ -130,7 +130,7 @@ ul.disc li::before {
     width: 8px;
     height: 8px;
     border-radius: 50%;
-    background: #4169E1; /* Remplacez #FF0077 par #4169E1 */
+    background: #4169E1; 
     position: absolute;
     left: -17px;
     top: 11px;
@@ -139,7 +139,7 @@ ul.disc li::before {
 
 dt {
     margin: 0;
-    color: #4169E1; /* Remplacez #FF0077 par #4169E1 */
+    color: #4169E1;
 }
 
 /**
@@ -147,7 +147,7 @@ dt {
  * -------------------------------------------------------------------
  */
 .pace .pace-progress {
-    background: #4169E1; /* Remplacez #FF0077 par #4169E1 */
+    background: #4169E1;
 }
 
 /**
@@ -306,14 +306,14 @@ input[type="url"]:focus,
 input[type="password"]:focus,
 textarea:focus,
 select:focus {
-	color: #cc005f;
-	border-bottom: 1px solid #FF0077;
+	color: #4169E1;
+	border-bottom: 1px solid #4169E1;
 }
 label, legend {
 	font-family: "poppins-bold", sans-serif;
 	font-size: 1.4rem;
 	margin-bottom: .6rem;
-	color: #3b3b3b;
+	color: #FFFFFF;
 	display: block;
 }
 input[type="checkbox"], input[type="radio"] {
