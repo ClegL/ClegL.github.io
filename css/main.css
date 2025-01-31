@@ -189,7 +189,7 @@ blockquote:before {
 	font-size: 8rem;
 	line-height: 0px;
 	margin: 0;
-	color: #313131;
+	color: #4169E1;
 	font-family: arial, sans-serif;
 	position: absolute;
 	top: 3rem;
@@ -234,7 +234,7 @@ code {
 	margin: 0 .2rem;
 	padding: .3rem .6rem;
 	white-space: nowrap;
-	background: #F1F1F1;
+	background: #FFFFFF;
 	border: 1px solid #E1E1E1;
 	border-radius: 3px;
 }
