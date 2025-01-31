@@ -1373,7 +1373,7 @@ header .logo a {
 	color: rgba(255, 255, 255, 0.3);
 }
 .intro-content .button {
-	color: #FFFFFF !important;
+	color: #4169E1 !important;
 	border-color: rgba(255, 255, 255, 0.3);
 	height: 6rem !important;
 	line-height: 5.4rem !important;
@@ -1413,7 +1413,7 @@ header .logo a {
 	padding: 0;
 }
 .intro-social li a, .intro-social li a:visited {
-	color: #FFFFFF;
+	color: #4169E1;
 }
 .intro-social li a:hover, .intro-social li a:focus {
 	color: #cc005f;
@@ -1490,7 +1490,7 @@ header .logo a {
  * -------------------------------------------------------------------
  */
 #about {
-	background: #FFFFFF;
+	background: #4169E1;
 	padding-top: 12rem;
 	padding-bottom: 15rem;
 }
