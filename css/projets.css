@@ -1,4 +1,11 @@
 /* Projets Section */
+
+.projet-image img {
+    width: 100%; /* Largeur fixe */
+    height: 200px; /* Hauteur fixe (ajustez selon vos besoins) */
+    object-fit: cover; /* Pour éviter la déformation */
+    display: block; /* Pour éviter les espaces indésirables */
+}
 .projets-content {
    padding: 60px 0;
 }
