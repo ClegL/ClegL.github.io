@@ -218,7 +218,7 @@ abbr {
     font-variant: small-caps;
     text-transform: lowercase;
     letter-spacing: .05rem;
-    color: #888888;
+    color: #FFFFFF;
 }
 var, kbd, samp, code, pre {
     font-family: Consolas, "Andale Mono", Courier, "Courier New", monospace;
@@ -329,7 +329,7 @@ th, td {
     border-bottom: 1px solid #E8E8E8;
 }
 th {
-    color: #313131;
+    color: #FFFFFF;
     font-family: "poppins-bold", sans-serif;
 }
 td {
