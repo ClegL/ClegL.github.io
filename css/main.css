@@ -106,6 +106,7 @@ h1, h2, h3, h4, h5, h6, .h01, .h02, .h03, .h04, .h05, .h06 {
     margin-bottom: 2.1rem;
 }
 h3, .h03, h4, .h04 {
+    color: #4169E1;
     margin-bottom: 1.8rem;
 }
 h5, .h05, h6, .h06 {
