@@ -2514,6 +2514,14 @@ body, h1, h2, h3, h4, h5, h6, p, a, li, span, .section-intro h1, .section-intro 
     color: #4169E1 !important;
 }
 
+/* Forcer le texte sur fond blanc à être bleu */
+#resume h3, #resume p,
+#services h3, #services p,
+#contact h3, #contact p {
+    color: #4169E1 !important;
+}
+
+
 /* Ensure the stats bars display the correct percentage */
 .skill-bars li .percent72 { width: 72% !important; }
 .skill-bars li .percent77 { width: 77% !important; }
