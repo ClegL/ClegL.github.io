@@ -2496,3 +2496,24 @@ p {
 /* Les barres de stats : définition des largeurs pour 72% et 77% */
 .skill-bars li .percent72 { width: 72%; }
 .skill-bars li .percent77 { width: 77%; }
+
+
+/* Ensure text on blue background is white */
+body, h1, h2, h3, h4, h5, h6, p, a, li, span, .section-intro h1, .section-intro h5 {
+    color: #FFFFFF !important;
+}
+
+/* Ensure text on white background is blue */
+#resume, #services, #contact, .popup-modal {
+    color: #4169E1 !important;
+}
+
+#resume h2, #resume h3, #resume h4, #resume p, #resume a,
+#services h2, #services h3, #services h4, #services p, #services a,
+#contact h2, #contact h3, #contact h4, #contact p, #contact a {
+    color: #4169E1 !important;
+}
+
+/* Ensure the stats bars display the correct percentage */
+.skill-bars li .percent72 { width: 72% !important; }
+.skill-bars li .percent77 { width: 77% !important; }
