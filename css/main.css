@@ -2526,6 +2526,14 @@ strong {
     color: #FFFFFF !important;
 }
 
+#formation h3, #formation p, #formation strong {
+    color: #4169E1 !important;
+}
+
+h5 {
+    color: #888888 !important;
+}
+
 /* Ensure the stats bars display the correct percentage */
 .skill-bars li .percent72 { width: 72% !important; }
 .skill-bars li .percent77 { width: 77% !important; }
