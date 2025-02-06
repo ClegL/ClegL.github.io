@@ -2521,6 +2521,10 @@ body, h1, h2, h3, h4, h5, h6, p, a, li, span, .section-intro h1, .section-intro 
     color: #4169E1 !important;
 }
 
+/* Les textes en strong restent en blanc partout */
+strong {
+    color: #FFFFFF !important;
+}
 
 /* Ensure the stats bars display the correct percentage */
 .skill-bars li .percent72 { width: 72% !important; }
